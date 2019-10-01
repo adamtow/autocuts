@@ -1,1 +1,23 @@
-
+{
+	"en-US": {
+		"error_dropboxPath": "Edit this shortcut and specify the path where your Autocuts are stored in Dropbox.",
+		"error_sources_none": "No sources of Autocuts have been defined for this device. Use Autocuts Scheduler to create and manage uour Autocuts Sources.",
+		"debug_continueInShortcuts_label": "Continue in Shortcuts App",
+		"debug_device_label": "Device",
+		"debug_continueInShortcuts": "Shortcuts must activate and be frontmost in order to run this shortcut.",
+		"debug_background_label": "Background",
+		"debug_background": "will run in the background.",
+		"debug_date_label": "Date",
+		"debug_date_since": "minutes since",
+		"debug_date_future": "Scheduled date is in the future",
+		"debug_device_any": "Any",
+		"debug_expiration": "Expiration period has elapsed",
+		"debug_expiration_none": "No expiration",
+		"debug_expiration_passed": "Expiration period has not passed",
+		"debug_expiration_minutes": "minutes",
+		"debug_expiration_label": "Expiration",
+		"debug_device_label": "Device",
+		"debug_shortcut_none": "No shortcut specified",	
+		"debug_shortcut_label": "Shortcut"
+	}
+}
