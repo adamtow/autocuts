@@ -1,9 +1,7 @@
 {
 	"en-US": {
-		"alert_update": "An update for Autocuts is available. Tap the link below to install.",
-	"alert_update_title": "Autocuts Update Available",
-	"alert_welcome": "Autocuts automatically runs shortcuts in the background while you use your iOS device.",
-	"alert_welcome_title": "Welcome to Autocuts!",
+    	"alert_welcome": "Autocuts automatically runs shortcuts in the background while you use your iOS device.",
+	    "alert_welcome_title": "Welcome to Autocuts!",
         "error_source_none": "No source for Autocuts could be found. Use the Autocuts Admin shortcut to create and manage your Autocuts Sources.",
         "log_date_future": "Scheduled date is in the future",
         "log_date_since": "minutes since",
