@@ -1,6 +1,6 @@
 {
 	"en-US": {
-        "error_source_none": "No sources of Autocuts have been defined for this device. Use Autocuts Admin to create and manage uour Autocuts Sources.",
+        "error_source_none": "No source for Autocuts could be found. Use the Autocuts Admin shortcut to create and manage your Autocuts Sources.",
         "log_date_future": "Scheduled date is in the future",
         "log_date_since": "minutes since",
         "log_device_any": "Any",
