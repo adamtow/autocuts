@@ -1,32 +1,26 @@
 {
 	"en-US": {
-		"error_dropboxPath": "Edit this shortcut and specify the path where your Autocuts are stored in Dropbox.",
-		"error_sources_none": "No sources of Autocuts have been defined for this device. Use Autocuts Scheduler to create and manage uour Autocuts Sources.",
-
-		"log_date_since": "minutes since",
-		"log_date_future": "Scheduled date is in the future",
-		"log_device_any": "Any",
-		"log_expiration_expired": "Expiration period has elapsed",
-		"log_expiration_minutes": "minutes",
-		"log_expiration_never": "Never",
-		"log_expiration_none_label": "No Expiration",
-		"log_expiration_passed": "Expiration period has not passed",
-	
-		"log_label_background": "Background",
-		"log_label_date": "Date",		
-		"log_label_dateScheduled": "Scheduled Date",
-		"log_label_device": "Device",
-		"log_label_expiration": "Expiration",
-		"log_label_foreground": "Foreground",
-		"log_label_shortcut": "Shortcut",
-		"log_label_shortcutDisallowed": "Disallowed Shortcut",	
-		
-		"log_run_background": "Run in Background",
-		"log_run_foreground": "Switch to Shortcuts App",
-
-		"log_shortcut_none": "No shortcut specified",	
-
-		"log_source_name": "Source",
-		"log_source_path": "Path"
-	}
+        "error_source_none": "No sources of Autocuts have been defined for this device. Use Autocuts Admin to create and manage uour Autocuts Sources.",
+        "log_date_future": "Scheduled date is in the future",
+        "log_date_since": "minutes since",
+        "log_device_any": "Any",
+        "log_expiration_expired": "Expiration period has elapsed",
+        "log_expiration_minutes": "minutes",
+        "log_expiration_never": "Never",
+        "log_expiration_none_label": "No Expiration",
+        "log_expiration_passed": "Expiration period has not passed",
+        "log_label_background": "Background",
+        "log_label_date": "Date",
+        "log_label_dateScheduled": "Scheduled Date",
+        "log_label_device": "Device",
+        "log_label_expiration": "Expiration",
+        "log_label_foreground": "Foreground",
+        "log_label_shortcut": "Shortcut",
+        "log_label_shortcutDisallowed": "Disallowed Shortcut",
+        "log_run_background": "Run in Background",
+        "log_run_foreground": "Switch to Shortcuts App",
+        "log_shortcut_none": "No shortcut specified",
+        "log_source_name": "Source",
+        "log_source_path": "Path"
+    }
 }
