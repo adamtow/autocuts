@@ -19,6 +19,7 @@
         "log_label_foreground": "Foreground",
         "log_label_shortcut": "Shortcut",
         "log_label_shortcutDisallowed": "Disallowed Shortcut",
+        "log_label_shortcutNotInstalled": "Shortcut Not Installed",
         "log_run_background": "Run in Background",
         "log_run_foreground": "Switch to Shortcuts App",
         "log_shortcut_none": "No shortcut specified",
