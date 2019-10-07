@@ -1,7 +1,5 @@
 {
 	"en-US": {
-    	"alert_welcome": "Autocuts automatically runs shortcuts in the background while you normally use your iOS device.\n\nConfigure Autocuts using the Autocuts Admin shortcut.",
-	    "alert_welcome_title": "Welcome to Autocuts!",
         "error_source_none": "No source for Autocuts could be found. Use the Autocuts Admin shortcut to create and manage your Autocuts Sources.",
         "log_date_future": "Scheduled date is in the future",
         "log_date_since": "minutes since",
