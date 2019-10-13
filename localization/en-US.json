@@ -1,5 +1,8 @@
 {
 	"en-US": {
+		"alert_notify_end": "Autocuts evaluation complete.",
+		"alert_notify_middle": "Autocuts running shortcuts…",
+		"alert_notify_start": "Autocuts evaluation beginning…",
         "error_source_none": "No source for Autocuts could be found. Use the Autocuts Admin shortcut to create and manage your Autocuts Sources.",
         "log_date_future": "Scheduled date is in the future",
         "log_date_since": "minutes since",
