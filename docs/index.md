@@ -1,6 +1,6 @@
 # Autocuts Examples
 
-Here are links to shortcuts that work with Autocuts:
+Here are links to shortcuts that work with [Autocuts](https://adamtow.github.io/autocuts-admin/), the background shortcut manager for iOS 13.
 
 - [Auto DND](https://routinehub.co/shortcut/3644): Turn on Do Not Disturb mode automatically during calendar events that have the string "DND" in their Title or Notes field.
 - [Auto Low Power Mode](https://routinehub.co/shortcut/3641): Set Low Power Mode on your iPhone or iPod touch when your battery level falls below a certain percentage of your choosing.
@@ -9,3 +9,4 @@ Here are links to shortcuts that work with Autocuts:
 - [Wi-Fi Triggers](https://routinehub.co/shortcut/3683): Automatically run shortcuts when you connect and disconnect from Wi-Fi networks.
 - [Autocuts Search Results on RoutineHub](https://routinehub.co/search/?q=Autocuts)
 
+These shortcuts require that you have Autocuts installed. It's recommeded to install Autocuts via the [Autocuts Suite Installer](https://routinehub.co/shortcut/3661).
