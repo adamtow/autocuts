@@ -17,13 +17,16 @@
         "log_label_dateScheduled": "Scheduled Date",
         "log_label_device": "Device",
         "log_label_expiration": "Expiration",
+        "log_label_filter_fail": "Filter",
         "log_label_foreground": "Foreground",
+        "label_log_runInterval_fail": "Run Interval",
         "log_label_shortcut": "Shortcut",
         "log_label_shortcutDisallowed": "Disallowed Shortcut",
         "log_label_shortcutNotInstalled": "Shortcut Not Installed",
         "log_run_background": "Run in Background",
         "log_run_foreground": "Switch to Shortcuts App",
         "log_shortcut_none": "No shortcut specified",
+        "log_filter": "Filter",
         "log_source_name": "Source",
         "log_source_path": "Path"
     }
