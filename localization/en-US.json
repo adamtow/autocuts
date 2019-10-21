@@ -3,6 +3,7 @@
 		"alert_notify_end": "Autocuts evaluation complete.",
 		"alert_notify_middle": "Autocuts running shortcuts…",
 		"alert_notify_start": "Autocuts evaluation beginning…",
+		"alert_repeatInterval_force": "Autocuts is scheduled to run automatically at {{time}}. If you want it to run now, drag this notification down slightly. Then, tap the link that appears.",
         "error_source_none": "No source for Autocuts could be found. Use the Autocuts Admin shortcut to create and manage your Autocuts Sources.",
         "log_activeDays_oob": "Date is outside of active days.",
         "log_activeHours_oob": "Date is outside of active hours.",
