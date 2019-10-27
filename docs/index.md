@@ -17,3 +17,8 @@ Learn how to use Autocuts by watching these video tutorials on YouTube:
 
 - [Airplane Mode at a Designated Time](https://youtu.be/N0xrBMcCTnQ): Schedule an Autocut to run at a time in the future.
 
+# Autocuts Documentation
+
+Visit the Autocuts Admin page for complete documentation on how to use Autocuts.
+
+- [Autocuts Documentation](https://adamtow.github.io/autocuts-admin)
