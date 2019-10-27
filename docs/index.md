@@ -15,7 +15,8 @@ These shortcuts require that you have Autocuts installed. It's recommeded to ins
 
 Learn how to use Autocuts by watching these video tutorials on YouTube:
 
-- [Airplane Mode at a Designated Time](https://youtu.be/N0xrBMcCTnQ): Schedule an Autocut to run at a time in the future.
+- [**Configuring an Open App personal automation to run Autocuts**](https://youtu.be/M7tR4iExnNA): Learn how to run Autocuts continually throughout the day using an Open App personal automation and your most frequently used apps.
+- [**Airplane Mode at a Designated Time**](https://youtu.be/N0xrBMcCTnQ): Schedule an Autocut to run at a time in the future.
 
 # Autocuts Documentation
 
