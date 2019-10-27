@@ -10,3 +10,10 @@ Here are links to shortcuts that work with [Autocuts](https://adamtow.github.io/
 - [Autocuts Search Results on RoutineHub](https://routinehub.co/search/?q=Autocuts): Find more Autocuts-compatible shortcuts on RoutineHub.
 
 These shortcuts require that you have Autocuts installed. It's recommeded to install Autocuts via the [Autocuts Suite Installer](https://routinehub.co/shortcut/3661).
+
+# Video Tutorials
+
+Learn how to use Autocuts by watching these video tutorials on YouTube:
+
+- [Airplane Mode at a Designated Time](https://youtu.be/N0xrBMcCTnQ): Schedule an Autocut to run at a time in the future.
+
